@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Some guy from Germany</h3>
 
-- 🔭 I’m currently working on a [Node Editor](https://github.com/Max-H-0/NodeEditor)
+- 🔭 I’m currently working on ▶ [Node Editor](https://github.com/Max-H-0/NodeEditor)
 
-- 🌱 I’m currently learning **C#, Avalonia, Blender, Fusion360**
+- 🌱 I’m currently learning ▶ **C#, Avalonia, Blender, Fusion360**
 
-- 💬 Ask me about **Unity**
+- 💬 Ask me about ▶ **Unity**
 
-- 📫 How to reach me **rwmaherr@gmail.com**
+- 📫 How to reach me ▶ **rwmaherr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
