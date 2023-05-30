@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=["https://www.reddit.com/user/EntertainerBusy9272"] target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="asdasdasdasdsadasd" height="40" width="40" /></a>
+<a href=["https://www.reddit.com/user/EntertainerBusy9272"] target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="EntertainerBusy9272" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
