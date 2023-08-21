@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on ▶ [Node Editor](https://github.com/Max-H-0/NodeEditor)
 
-- 🌱 I’m currently learning ▶ **C#, Avalonia, Blender, Fusion360**
+- 🌱 I’m currently learning ▶ **C#, C++, Avalonia, Blender, Fusion360**
 
 - 📫 How to reach me ▶ **rwmaherr@gmail.com**
 
