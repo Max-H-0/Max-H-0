@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning ▶ **C#, Avalonia, Blender, Fusion360**
 
-- 💬 Ask me about ▶ **Unity**
-
 - 📫 How to reach me ▶ **rwmaherr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
