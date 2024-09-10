@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">Some guy from Germany</h3>
 
-- 🔭 I’m currently working on ▶ [Node Editor](https://github.com/Max-H-0/NodeEditor)
-
-- 🌱 I’m currently learning ▶ **C#, C++, Avalonia, Blender, Fusion360**
-
-- 📫 How to reach me ▶ **rwmaherr@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.reddit.com/user/EntertainerBusy9272" target="blank"><img align="center" src="https://www.iconpacks.net/icons/2/free-reddit-logo-icon-2436-thumb.png" alt="EntertainerBusy9272" height="40" width="40" /></a>
